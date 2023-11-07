@@ -3,3 +3,5 @@
 #segundo titulo
 
 #uso do comando restore
+
+*comando git push*
